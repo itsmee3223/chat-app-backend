@@ -1,5 +1,5 @@
-## Backend code for this repo
-- https://github.com/itsmee3223/realtime-chat-app
+## About The APP
+- Backend code for https://github.com/itsmee3223/realtime-chat-app
 - Using twilio for notification message if user offline
 - Using https://getstream.io/ for chatting api
 - Subscribe to https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
