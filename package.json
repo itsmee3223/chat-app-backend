@@ -17,7 +17,7 @@
     "dotenv": "^16.0.0",
     "express": "^4.17.2",
     "getstream": "^8.0.0",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.17",
     "stream-chat": "^6.0.0",
     "twilio": "^3.74.0"
   }
